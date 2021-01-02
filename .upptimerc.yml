@@ -1,15 +1,15 @@
 # Change these first
-owner: upptime # Your GitHub username
-repo: upptime # Your GitHub repository name
+owner: RickCogley # Your GitHub username
+repo: esolia-uptime # Your GitHub repository name
 
 # Add your sites here
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
+  - name: eSolia.com
+    url: https://esolia.com
+  - name: eSolia.co.jp
+    url: https://esolia.co.jp
+  - name: PROdb
+    url: https://pro.dbflex.net
   - name: Broken Site
     url: https://thissitedoesnotexist.com
   - name: Test for HEAD
@@ -20,7 +20,7 @@ sites:
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
-  cname: demo.upptime.js.org
+  cname: uptime.esolia.pro
   # Uncomment the following line if you don't have a custom domain and add your repo name
   # baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
