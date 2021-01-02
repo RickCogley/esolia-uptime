@@ -4,12 +4,16 @@ repo: esolia-uptime # Your GitHub repository name
 
 # Add your sites here
 sites:
-  - name: eSolia.com
-    url: https://esolia.com
-  - name: eSolia.co.jp
-    url: https://esolia.co.jp
-  - name: PROdb
+  - name: PROdb Cloud Database PaaS
     url: https://pro.dbflex.net
+  - name: eSolia Newsletter System
+    url: https://send.esolia.pro
+  - name: eSolia Secret Sharing System
+    url: https://salty.esolia.pro
+  - name: eSolia.com English Site
+    url: https://esolia.com
+  - name: eSolia.co.jp Japanese Site
+    url: https://esolia.co.jp
   - name: Broken Site
     url: https://thissitedoesnotexist.com
   - name: Test for HEAD
