@@ -132,7 +132,7 @@
     "slug": "secret-site",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "98.86%",
+    "uptimeDay": "98.85%",
     "uptimeWeek": "99.84%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
@@ -142,7 +142,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-01-02": 16
+      "2021-01-02": 17
     }
   }
 ]
