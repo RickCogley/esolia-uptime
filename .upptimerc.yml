@@ -1,6 +1,7 @@
 # Change these first
 owner: RickCogley # Your GitHub username
 repo: esolia-uptime # Your GitHub repository name
+user-agent: RickCogley
 
 # Add your sites here
 sites:
