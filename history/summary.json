@@ -22,19 +22,19 @@
     "url": "https://pro.dbflex.net/secure/api/v2/15331/$PRODB_TOKEN_15331/Res%3A%20Random%20Quotation/Default%20View/select.json",
     "icon": "https://favicons.githubusercontent.com/pro.dbflex.net",
     "slug": "pr-odb-cloud-database-api-endpoint",
-    "status": "down",
-    "uptime": "0.75%",
-    "uptimeDay": "0.75%",
-    "uptimeWeek": "0.75%",
-    "uptimeMonth": "0.75%",
-    "uptimeYear": "0.75%",
-    "time": 35,
-    "timeDay": 35,
-    "timeWeek": 35,
-    "timeMonth": 35,
-    "timeYear": 35,
+    "status": "up",
+    "uptime": "1.60%",
+    "uptimeDay": "1.60%",
+    "uptimeWeek": "1.60%",
+    "uptimeMonth": "1.60%",
+    "uptimeYear": "1.60%",
+    "time": 56,
+    "timeDay": 56,
+    "timeWeek": 56,
+    "timeMonth": 56,
+    "timeYear": 56,
     "dailyMinutesDown": {
-      "2021-01-03": 3
+      "2021-01-03": 8
     }
   },
   {
