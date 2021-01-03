@@ -7,14 +7,19 @@ user-agent: RickCogley
 sites:
   - name: PROdb Cloud Database PaaS
     url: https://pro.dbflex.net
+    icon: https://assets.esolia.com/eSolia-Chicklet-Color-512px.ico
   - name: PROdb Cloud Database API Endpoint
     url: https://pro.dbflex.net/secure/api/v2/15331/$PRODB_TOKEN_15331/Res%3A%20Random%20Quotation/Default%20View/select.json 
+    icon: https://assets.esolia.com/eSolia-Chicklet-Color-512px.ico
   - name: eSolia Newsletter System
     url: https://send.esolia.pro
+    icon: https://assets.esolia.com/eSolia-Chicklet-Color-512px.ico
   - name: eSolia Secure Text Sharing System
     url: https://salty.esolia.pro
+    icon: https://assets.esolia.com/eSolia-Chicklet-Color-512px.ico
   - name: eSolia Screen Connect
     url: https://esolia.screenconnect.com
+    icon: https://assets.esolia.com/eSolia-Chicklet-Color-512px.ico
   - name: eSolia.com English Site
     url: https://esolia.com
   - name: eSolia.co.jp Japanese Site
