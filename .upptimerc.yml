@@ -7,6 +7,8 @@ user-agent: RickCogley
 sites:
   - name: PROdb Cloud Database PaaS
     url: https://pro.dbflex.net
+  - name: PROdb Cloud Database API Endpoint
+    url: https://pro.dbflex.net/secure/api/v2/15331/$PRODB_TOKEN_15331/Res%3A%20Random%20Quotation/Default%20View/select.json 
   - name: eSolia Newsletter System
     url: https://send.esolia.pro
   - name: eSolia Secret Sharing System
