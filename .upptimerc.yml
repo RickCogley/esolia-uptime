@@ -11,8 +11,10 @@ sites:
     url: https://pro.dbflex.net/secure/api/v2/15331/$PRODB_TOKEN_15331/Res%3A%20Random%20Quotation/Default%20View/select.json 
   - name: eSolia Newsletter System
     url: https://send.esolia.pro
-  - name: eSolia Secret Sharing System
+  - name: eSolia Secure Text Sharing System
     url: https://salty.esolia.pro
+  - name: eSolia Screen Connect
+    url: https://esolia.screenconnect.com
   - name: eSolia.com English Site
     url: https://esolia.com
   - name: eSolia.co.jp Japanese Site
