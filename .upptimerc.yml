@@ -32,8 +32,8 @@ status-website:
   # baseUrl: /upptime
   logoUrl: https://assets.esolia.com/eSolia_Square_Chicklet_Logo_YellowBlue.svg
   name: eSolia Uptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introTitle: "eSolia Uptime Monitor Status"
+  introMessage: Welcome to our uptime monitor status page, built with real-time data from a [GitHub repository](https://github.com/RickCogley/esolia-uptime) using GitHub Actions, Issues, and Pages. Powered by [Upptime](https://github.com/upptime/upptime).
   navbar:
     - title: Status
       href: /
