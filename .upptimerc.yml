@@ -6,10 +6,10 @@ user-agent: RickCogley
 # Add your sites here
 sites:
   - name: PROdb Cloud Database PaaS
-    url: https://pro.dbflex.net
+    url: https://pro.dbflex.net/secure/login.aspx
     icon: https://assets.esolia.com/eSolia-Chicklet-Color-512px.ico
   - name: MGJ Cloud Database
-    url: https://db.myriadgenetics-ops.com
+    url: https://db.myriadgenetics-ops.com/secure/login.aspx
   - name: PROdb Cloud Database API Endpoint
     url: https://pro.dbflex.net/secure/api/v2/15331/$PRODB_TOKEN_15331/Res%3A%20Random%20Quotation/Default%20View/select.json 
     icon: https://assets.esolia.com/eSolia-Chicklet-Color-512px.ico
