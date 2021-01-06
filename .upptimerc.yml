@@ -43,8 +43,8 @@ status-website:
       href: https://github.com/$OWNER/$REPO
 
 commitMessages:
-  commitAuthorName: "eSolia Uptime Bot"
-  commitAuthorEmail: "rick.cogley@esolia.co.jp"
+  commitAuthorName: "esolia-bot"
+  commitAuthorEmail: "esolia.bot@esolia.co.jp"
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
